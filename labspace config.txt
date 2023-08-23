@@ -1,6 +1,5 @@
 APPLICATION_NAME===LabSpace
 DOWNLOAD_URL===https://dl.dropboxusercontent.com/scl/fi/m8qm4usdog3bsjnnvw0nw/LabSpace.zip?rlkey=novsl504xnggf0lw3iblci7wf&dl=0
 FILE_TO_RUN===LabSpace.exe
-DOWNLOAD_VERSION_FILE===true
 FORCE_UPDATE===true
 VERSION===0.0.7
